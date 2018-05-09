@@ -1,0 +1,17 @@
+{
+  "workouts": [
+    {
+      "date": 8273423,
+      "start_time": 2398234,
+      "end_time": 2398234,
+      "routine": "routine-id",
+      "exercise": "exercise-id",
+      "set_order": 1,
+      "repetitions": 2,
+      "weight": 20,
+      "weight-unite": "kg",
+      "minutes": 2,
+      "secondes": 0
+    }
+  ]
+}
