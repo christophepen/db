@@ -1,5 +1,4 @@
 {
-  "createdAt": 1526930166482,
-  "id": "dip",
-  "name": "Dip"
+  "foo": "bar",
+  "id": "dip"
 }
